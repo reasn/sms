@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/classes/Bootstrapper.js" />
+        <item url="file://$PROJECT_DIR$/script.js" />
+        <item url="file://$PROJECT_DIR$/classes/main.js" />
+        <item url="file://$PROJECT_DIR$/classes/PageController.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/classes/Bootstrapper.js" />
+      <root url="file://$PROJECT_DIR$/classes/main.js" />
+      <root url="file://$PROJECT_DIR$/classes/PageController.js" />
+      <root url="file://$PROJECT_DIR$/classes/Bootstrapper.js" />
+      <root url="file://$PROJECT_DIR$/script.js" />
+      <root url="file://$PROJECT_DIR$/classes/PageController.js" />
+      <root url="file://$PROJECT_DIR$/classes/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

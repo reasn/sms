@@ -1,0 +1,21 @@
+{
+    "name":         "sms",
+    "version":      "0.0.0",
+    "homepage":     "https://github.com/reasn/sms",
+    "authors":      [
+        "Alexander Thiel <m@alexthiel.de>"
+    ],
+    "license":      "MIT",
+    "private":      true,
+    "ignore":       [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery":  "2.1.x",
+        "angular": "1.3.x"
+    }
+}
