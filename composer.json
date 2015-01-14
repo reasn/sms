@@ -1,0 +1,16 @@
+{
+    "name":        "reasn/sms",
+    "description": "SMS tool for myself",
+    "license":     "MIT",
+    "authors":     [
+        {
+            "name":  "Alexander Thiel",
+            "email": "m@alexthiel.de"
+        }
+    ],
+    "require":     {
+        "silex/silex": "~1.2",
+        "kriswallsmith/buzz": "~0.13",
+        "symfony/yaml": "~2.6"
+    }
+}

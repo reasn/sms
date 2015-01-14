@@ -1,0 +1,19 @@
+{
+  "name": "sms",
+  "version": "0.0.0",
+  "description": "SMS tool for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:reasn/sms.git"
+  },
+  "author": "Alexander Thiel <me@alexthiel.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reasn/sms/issues"
+  },
+  "homepage": "https://github.com/reasn/sms"
+}
