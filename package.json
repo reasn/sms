@@ -20,6 +20,6 @@
 
     },
     "dependencies":    {
-        "ts-angular-class-registry": "^0.1.4"
+        "ts-angular-class-registry": "0.1.x"
     }
 }
